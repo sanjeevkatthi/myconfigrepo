@@ -1,5 +1,2 @@
-message: hello world
+message: hello world from message client
 
-spring:
-  profiles:
-    active: dev

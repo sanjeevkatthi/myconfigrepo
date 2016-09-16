@@ -1,5 +1,0 @@
-message: app world
-
-spring:
-  profiles:
-    active: dev

@@ -1,5 +1,0 @@
-message: configuration server example
-
-spring:
-  profiles:
-    active: dev

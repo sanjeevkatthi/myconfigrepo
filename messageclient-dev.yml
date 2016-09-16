@@ -1,5 +1,0 @@
-message: hello world
-
-spring:
-  profiles:
-    active: dev
