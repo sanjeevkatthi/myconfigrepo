@@ -1,6 +1,6 @@
 configuration:  
   projectName: configclient
 server:
-  port: 8001
+  port: 8000
 message:
-  greeting: Hello from the configuration! updated updated updated
+  greeting: Hello from the configuration! updated updated updated updated
