@@ -1,0 +1,5 @@
+message:  
+  greeting: Hello from the configuration
+
+server:
+  port: 8085
