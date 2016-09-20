@@ -2,4 +2,4 @@ message:
   greeting: Hello from the configuration
 
 server:
-  port: 8085
+  port: 9085
