@@ -1,5 +1,5 @@
 message:  
-  greeting: Hello from the configuration
+  greeting: Hello from the configuration test
 
 #server:
 #  port: 9085
