@@ -8,4 +8,4 @@ notification.server.context=notification/v1.0/messages/email
 notification.mail.priority1=1
 notification.mail.priority2=2
 #Schedule time for notification Email configuration frequency to run the notification client
-notification.mail.scheduletime=0 0/15 * * * ?
+notification.mail.scheduletime=0 0/5 * * * ?
