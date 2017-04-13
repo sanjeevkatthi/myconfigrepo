@@ -5,7 +5,7 @@ notification.server.context=notification/v1.0/messages/email
 # Notification mail settings in terms of days.
 # For Priority 1 one day
 # For Priority 2 two days
-notification.mail.priority_1=1
-notification.mail.priority_2=2
+notification.mail.priority1=1
+notification.mail.priority2=2
 #Schedule time for notification Email configuration frequency to run the notification client
 notification.mail.scheduletime=0 0/1 * * * ?
