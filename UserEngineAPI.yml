@@ -1,0 +1,15 @@
+UAAServerSettings:
+	UAAServerHost: https://uaa.apps.wwtlabs.net/
+	GrantType: client_credentials
+	TokenFormat: revocable
+	ResponseType: token
+	ClientId: UserMS
+	ClientSecret: User-MS-secret
+
+  AppSettings:
+    imageuri: http://localhost:2727/Image/
+    imagelocalpath: C://inetpub/wwwroot/Images/
+
+  ConnectionStrings:
+    MongoDBConnectionString: mongodb://191.232.164.148:27017/UserEngine
+    REDISCacheConnectionString: 13.64.112.109:6379,abortConnect=False
