@@ -1,0 +1,5 @@
+message1:  
+  greeting: Hello workflow engine from the azure dev configuration.....!!!
+
+server:
+    port: 8181
