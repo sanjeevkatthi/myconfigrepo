@@ -1,3 +1,4 @@
 message:  
   greeting: Hello from the configuration for.....!!!! test update bus refresh
-
+server:
+  port:8000
