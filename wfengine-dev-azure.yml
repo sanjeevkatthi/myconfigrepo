@@ -1,4 +1,4 @@
 message1:  
   greeting: Hello workflow engine from the configuration.....!!!
 server:
-  port: 8989
+  port: 8585
