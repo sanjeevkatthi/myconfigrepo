@@ -1,4 +1,4 @@
 message:  
   greeting: Hello from the configuration, default message if none of the profile is matched
 server:
-  port:8080
+  port:8000
